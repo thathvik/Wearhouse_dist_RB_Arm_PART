@@ -4,5 +4,11 @@ In this project, a Robotic Arm picks up the items from a conveyor belt and place
 
 Here the items that are to be distributed will be picked up by the robotic arm from the conveyor and finds the Transportation vehicle using a PiCamera with the help of OpenCV (vehicle was chosen to be marked in yellow for the project). The Raspberry Pi then places the item on the vehicle and then sends a signal confirming the placement. Bluetooth was the mode of communication for the project.
 
+Below is a small video to demonstrate the working of the project:
+
+https://user-images.githubusercontent.com/42662610/125686154-f6ea4a27-41df-44ea-9567-83115d53059f.mp4
+
+
+
 ## Scope of Expansion
 To develop a fully autonomous warehouse system, with AI-based identification and distribution. The transportation vehicle can be incorporated with pathfinding and Human Machine Interface mechanisms to allow human interference in the Wearhouse (for warehouses that need human factor).
